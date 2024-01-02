@@ -2,7 +2,7 @@
 
 A Chemical Engineer turned passionate Data Engineer, I discovered my love for data and automation while working in the Oil & Gas industry as a Field Engineer. Realizing the potential to optimize tasks through computing, I embarked on a self-learning journey in data science. From mastering Python and pandas to exploring machine learning libraries and PowerBI, I immersed myself in the world of data.
 
-As a part of an intensive acceleration program, I collaborated with developers in a Scrum Framework environment, enhancing my skills in teamwork and agile methodologies. Recently, I delved into the realms of Apache Kafka and Apache Spark, adding powerful tools to my arsenal.
+As a part of an intensive acceleration program, I collaborated with developers in a Scrum Framework environment, enhancing my skills in teamwork and agile methodologies. Recently, I delved into the realms of Apache Kafka and PySpark, adding powerful tools to my arsenal.
 
 ### 💼 Professional Highlights:
 
