@@ -9,11 +9,11 @@ As a part of an intensive acceleration program, I collaborated with developers i
 - Chemical Engineer with hands-on experience in the Oil & Gas industry.
 - Self-learned Python, pandas, machine learning, and PowerBI.
 - Acceleration program participant, thriving in collaborative Scrum projects.
-- Recent focus on mastering Apache Kafka and Apache Spark.
+- Recent focus on mastering Apache Kafka and Apache PySpark.
 
 ### 🚀 Some of the Projects and Tools that were used:
 
-- **Dash Financial Dashboard utilizing Apache Spark, Kafka and Airflow:** Kafka, Spark, Airflow, Cassndra, Dash, Docker, Hugging Face.
+- **Dash Financial Dashboard utilizing Apache Spark, Kafka and Airflow:** Kafka, PySpark, Airflow, Cassndra, Dash, Docker, Hugging Face.
 - **Use NLP to analyze job descriptions in LinkedIn and apply accordingly:** Playwright, spaCy, PostgreSQL.
 - **ETL and Data Analysis of Swedish Restaurants that sell pizza:** Scrapy, scrapy-playwright, Pandas, Seaborn, Plotly.
 - **ETL utilizing Airflow and Docker:** Apache Airflow, Docker, AWS PostgreSQL, Pandas, AWS S3.
