@@ -11,20 +11,12 @@ As a part of an intensive acceleration program, I collaborated with developers i
 - Acceleration program participant, thriving in collaborative Scrum projects.
 - Recent focus on mastering Apache Kafka and Apache Spark.
 
-### 🚀 Some of the Projects:
+### 🚀 Some of the Projects and Tools that were used:
 
-- **Dash Financial Dashboard utilizing Apache Spark, Kafka and Airflow:**
-Produced Reddit posts from wallstreetbets to a **Kafka** topic, processed them using **Spark**, extracting stock symbols and performing sentiment analysis with a **Hugging
-Face** pipeline prior to store the results in **Cassandra**. Later retrieved symbols, downloaded stock data from Yahoo Finance, and computed diverse indicators with
-**Spark**. The entire workflow was orchestrated with **Airflow**. Utilized **Docker** containerization to facilitate deployment and scalability.
-- **Use NLP to analyze job descriptions in LinkedIn and apply accordingly:**
-Implemented a script utilizing **Playwright** framework to obtain job descriptions for a chosen position and country. Analyzed the job descriptions with **spaCy** NPL library
-to check if the user complies with the language, experience and technologies requirements. Information saved to a **PostgreSQL** database for further analysis. Linkedin EasyApply process is automated if the user fills the job requirements.
-- **ETL and Data Analysis of Swedish Restaurants that sell pizza:**
-Web scrapping of different JS rendered websites was done with **Scrapy** Framework and **scrapy-playwright** library. Restaurants data and financial information was
-processed with a **Scrapy** pipeline and **Pandas**. **Seaborn** and **Plotly** were used to analyze which cities have the Pizza Restaurants with the best financial results.
-- **ETL utilizing Airflow and Docker:**
-Was part of a project done under **Scrum** Framework with a team of 8 developers. **Jira** was utilized for work management and **Git** and **Github** for version control. Automatized the tasks with **Apache Airflow** run in **Docker**. The extraction was executed from an **AWS PostgreSQL** Database. The transformation was realized with **Pandas**. The result file was uploaded to an **AWS S3** bucket.
+- **Dash Financial Dashboard utilizing Apache Spark, Kafka and Airflow:** Kafka, Spark, Airflow, Cassndra, Dash, Docker, Hugging Face.
+- **Use NLP to analyze job descriptions in LinkedIn and apply accordingly:** Playwright, spaCy, PostgreSQL.
+- **ETL and Data Analysis of Swedish Restaurants that sell pizza:** Scrapy, scrapy-playwright, Pandas, Seaborn, Plotly.
+- **ETL utilizing Airflow and Docker:** Apache Airflow, Docker, AWS PostgreSQL, Pandas, AWS S3.
 
 ### 🌐 Connect with Me:
 
